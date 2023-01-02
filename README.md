@@ -1,0 +1,1 @@
+This is a simple Node JS API that utilizes a fake database. It handles get, post, patch, and delete requests. It also includes route testing using supertest.
